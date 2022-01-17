@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Loan Product General",
+    "minAmount": 12,
+    "maxAmount": 100,
+    "minTerm": 1031,
+    "maxTerm": "121221",
+    "annualInterestRate": "sdfg32",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 2,
+    "name": "Loan Product 3000",
+    "minAmount": 234,
+    "maxAmount": 24,
+    "minTerm": 345,
+    "maxTerm": "121345 gfh221",
+    "annualInterestRate": "gfh",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 3,
+    "name": "Loan Product 1000",
+    "minAmount": 234234,
+    "maxAmount": 234234,
+    "minTerm": 1031,
+    "maxTerm": "fgh",
+    "annualInterestRate": "fgh",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 4,
+    "name": "Loan Product 4000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 6,
+    "name": "Loan Product 5000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 7,
+    "name": "Loan Product 6000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 8,
+    "name": "Loan Product 7000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 9,
+    "name": "Loan Product 8000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 10,
+    "name": "Loan Product 9000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 11,
+    "name": "Loan Product 10000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 12,
+    "name": "Loan Product 600",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 13,
+    "name": "Loan Product 700",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 14,
+    "name": "Loan Product 750",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 15,
+    "name": "Loan Product 690",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 16,
+    "name": "Loan Product 15000",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  },
+  {
+    "id": 17,
+    "name": "Loan Product 3020",
+    "minAmount": 234234,
+    "maxAmount": 32424,
+    "minTerm": 234234,
+    "maxTerm": "543",
+    "annualInterestRate": "345",
+    "date": "01.11.2020"
+  }
+]
