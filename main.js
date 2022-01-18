@@ -6,9 +6,9 @@ let data;
     }
 })();
 
-let getProduct =  function () {
-    let productList = document.querySelectorAll('.tabs-nav');
-    let productFormContent = document.querySelectorAll('.tabs__content');
+const getProduct = ()=> {
+    const productList = document.querySelectorAll('.tabs-nav');
+    const productFormContent = document.querySelectorAll('.tabs__content');
     let selectedProduct;
 
     function getDataById (element, id) {
@@ -24,20 +24,15 @@ let getProduct =  function () {
             {},
         );
 
-        let currentTab = getDataById(
+        const currentTab = getDataById(
             document.querySelectorAll('.tabs-nav__item')
         , id);
-        const inputProductName = getDataById(
-            document.getElementsByName('name'),
-        );
-
         const productTitle = getDataById(
             document.querySelectorAll('.product__title'),
         id );
         const productDate = getDataById(
             document.querySelectorAll('.current_date'),
             id );
-
         const inputMinAmount = getDataById(
             document.getElementsByName('minAmount'),
          id);
@@ -60,7 +55,6 @@ let getProduct =  function () {
                 currentTab[0].innerText = newData.name;
                 currentTab[0].append(productDate[0])
                 productTitle[0].innerText = newData.name;
-           /*     productDate[0].innerText = '12.23.45';*/
                 inputMinAmount[0].value = newData.minAmount;
                 inputMaxAmount[0].value = newData.maxAmount;
                 inputMinTerm[0].value = newData.minTerm;
@@ -187,8 +181,8 @@ let getProduct =  function () {
 
     render();
 
-    let tabContent = document.querySelectorAll('.tab');
-    let tabNav = document.querySelectorAll('.tabs-nav__item');
+    const tabContent = document.querySelectorAll('.tab');
+    const tabNav = document.querySelectorAll('.tabs-nav__item');
 
     tabNav.forEach((item) => {
         item.addEventListener('click', selectTabNav);
